@@ -7,7 +7,7 @@ const HomePage = () => {
         <div className="container">
             <div className="d-flex flex-column align-items-center">
                 <img
-                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3mZpreGtRmPRNQrSyBHGmbuwMfC1y8l_hMA&usqp=CAU"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAgr81n0OjV1AWRZQl7ByDCA6lOguwDUNAQ&usqp=CAU"
                     className="w-25"
                     alt=""/>
                 <h1 className="fw-light">BUDGET<span className="fw-bold">FIGHTING</span>ARENA</h1>
