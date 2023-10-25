@@ -1,2 +1,3 @@
-# atsiskaitymas_front-node
-Antra dalis: https://github.com/Progamit/atsiskaitymas_front-node2
+Patobulinta versija:  https://github.com/Progamit/atsiskaitymas_front-node_tobulas
+https://github.com/Progamit/atsiskaitymas_front-node_tobulas2
+
